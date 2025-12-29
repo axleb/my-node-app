@@ -1,7 +1,7 @@
 # Node.js Starter Project
 
 This is a simple starter project for Node.js applications.
-This project will demonstrate routing and database interaction
+
 
 ## Project Structure
 
